@@ -63,3 +63,31 @@
 // app.listen(3000,()=>{
 //     console.log("server is running on 3000")
 // })
+
+
+//   Router level Middleware
+
+
+// const express = require("express")
+// const app = express()
+// const router = express.Router()
+
+// router.use((req,res,next)=>{
+//     console.log("this is router level middleware")
+//     next()
+// })
+
+// router.get("/",(req,res)=>{
+//     res.send("this is home page")
+// })
+
+// router.get("/about",(req,res)=>{
+//     res.send("this is about page")
+// })
+
+
+
+// app.use("/",router)
+
+// app.listen(3000)
+
