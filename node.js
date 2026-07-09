@@ -91,3 +91,20 @@
 
 // app.listen(3000)
 
+
+//   Query paramater
+
+// const express = require("express")
+// const app = express()
+
+// app.get("/sum",(req,res)=>{
+//     let a = Number(req.query.a)
+//     let b = Number(req.query.b)
+
+//     let sum = a+b
+
+//     res.send(sum.toString())
+// })
+
+// app.listen(3000)
+
