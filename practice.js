@@ -154,3 +154,17 @@
 // }
 
 // console.log(count)
+
+
+                          // odd number sum using recursion
+
+//     let a = [1,2,3,4,5,6]
+
+//  let b = a.reduce((acc,curr)=>{
+//      if(curr%2!==0){
+//          return acc+curr
+//      }
+//      return acc
+//  },0)
+ 
+//    console.log(b)                   
