@@ -85,4 +85,21 @@
 //       }
 //   }
   
-//    console.log(uniq)                
+//    console.log(uniq)   
+
+
+                // frequency
+
+
+//   let a = [1,2,3,4,1,2]
+  
+//    let freq = {};
+   
+//     for(let i = 0;i<a.length;i++){
+//         let item = a[i]
+        
+//         freq[item] = (freq[item] || 0)+1
+    
+//     }
+    
+//      console.log(freq)
