@@ -48,3 +48,12 @@
 //      console.log(i)
 //  }            
 
+                   // optional chaining
+
+//       let a = {
+//     name:"abindev",
+//     age:20
+// }
+
+//  console.log(a.address?.city)             
+
