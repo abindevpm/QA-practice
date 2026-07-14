@@ -103,3 +103,20 @@
 //     }
     
 //      console.log(freq)
+
+
+                // vowels count 
+
+//       let a = "hello"
+
+// let vowels = "aeiouAEIOU"
+
+// let count = 0;
+
+//  for(let i = 0;i<a.length;i++){
+//       if(vowels.includes(a[i])){
+//           count++
+//       }
+//  }
+ 
+//  console.log(count)          
