@@ -1,13 +1,13 @@
-const express = require("express")
-const app = express()
+// callback 
 
-app.get("/divide/:a/:b",(req,res)=>{
-    let a = Number(req.params.a)
-    let b = Number(req.params.b)
-    let divide = a/b
+// function a(name,callback){
+//     console.log('hy'+name)
+//     callback()
+// }
 
-    res.send(divide.toString())
 
-})
+// function b(){
+//     console.log("good morning")
+// }
 
-app.listen(3000)
+// a("abindev",b)
