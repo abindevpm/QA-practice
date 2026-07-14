@@ -120,3 +120,23 @@
 //  }
  
 //  console.log(count)          
+
+
+                // secondlargest element in array
+
+// let a = [1,2,3,4,5,6,8];
+
+// let largest = -Infinity;
+// let secondlargest = -Infinity;
+
+//  for(let i = 0;i<a.length;i++){
+//       if(a[i]>largest){
+//           secondlargest = largest
+//           largest = a[i]
+//       }else if(a[i]>secondlargest && a[i]!==largest){
+//           secondlargest = a[i]
+//       }
+//  }
+
+
+//  console.log(secondlargest)             
