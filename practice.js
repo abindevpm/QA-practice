@@ -168,3 +168,18 @@
 //  },0)
  
 //    console.log(b)                   
+
+                      // largest sentences in a string
+
+//   let str = "My name is Abindev";
+// let largest = ''
+// let s = str.split(" ")
+
+
+// for(let i = 0;i<s.length;i++){
+//     if(s[i].length>largest.length){
+//         largest = s[i]
+//     }
+// }
+
+// console.log(largest)                    
