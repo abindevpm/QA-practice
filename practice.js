@@ -34,3 +34,17 @@
 // })
 
 
+                   // Generator function ex
+
+//      function*generator(){
+//     for(let i = 0;i<=10;i++){
+//         yield i
+//     }
+// }
+
+//  const gen = generator()
+ 
+//  for( let i of gen){
+//      console.log(i)
+//  }            
+
