@@ -57,3 +57,10 @@
 
 //  console.log(a.address?.city)             
 
+
+                   // nullish operator
+
+//       let a = null
+//  let b = a ?? "abindev"
+ 
+//   console.log(b)             
