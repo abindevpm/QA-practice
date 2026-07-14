@@ -183,3 +183,32 @@
 // }
 
 // console.log(largest)                    
+
+                          //  NON prime numbers sum
+
+//  let a = [1,2,3,4,5,6,7,8,9]
+
+// let sum = 0;
+
+//  for(let i = 0;i<a.length;i++){
+//      let num = a[i]
+//      let isPrime = true
+     
+//      if(num<=1){
+//          isPrime = false
+//      }
+      
+//       for(let j = 2;j<num;j++){
+//           if(num%j==0){
+//               isPrime = false
+//               break
+//           }
+//       }
+      
+//        if(!isPrime){
+//            sum+=num
+//        }
+     
+//  }
+
+// console.log(sum)                    
