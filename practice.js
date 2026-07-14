@@ -139,4 +139,18 @@
 //  }
 
 
-//  console.log(secondlargest)             
+//  console.log(secondlargest)            
+
+
+                          // count of words in a sentences
+
+//   let a = "i am a developer"
+// let count = 1;
+
+// for(let  i = 0;i<a.length;i++){
+//     if(a[i] === " "){
+//         count++
+//     }
+// }
+
+// console.log(count)
