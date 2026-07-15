@@ -336,3 +336,17 @@
 //         console.log(i)
 //     },i*1000)
 // }                 
+
+
+               // printing 1 to 10 ,1 sec delay in setInterval
+
+//  let i = 1;
+
+// let interval = setInterval(()=>{
+//     console.log(i)
+//        i++
+       
+//       if(i>10){
+//           clearInterval(interval)
+//       }  
+// },1000)              
