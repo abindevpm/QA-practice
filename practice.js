@@ -213,7 +213,7 @@
 
 // console.log(sum)                    
 
-                    // reverse a string
+                         // reverse a string
 
 // let a = [1,2,3,4,5];
 
@@ -224,3 +224,25 @@
 // }
 
 // console.log(a)                    
+
+                           //  moving zeros to begining of the array
+ 
+//  let a = [1,2,3,0,4,5,6,0];
+
+// let zero = []
+// let nonzero = []
+
+//  for(let i = 0;i<a.length;i++){
+//      if(a[i] === 0){
+//          zero.push(a[i])
+//      }else{
+//          nonzero.push(a[i])
+//      }
+//  }
+
+
+// let total = [...zero,...nonzero]
+
+// console.log(total)
+
+                           
