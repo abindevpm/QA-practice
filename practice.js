@@ -350,3 +350,19 @@
 //           clearInterval(interval)
 //       }  
 // },1000)              
+
+
+                  // Sum of first 5 multples of 3 using while Loop
+
+//  let i = 1;
+// let sum = 0;
+
+// while(i<=5){
+//     sum = sum+(i*3)
+//      i++
+// }
+// console.log(sum)                 
+
+
+                      
+                     
