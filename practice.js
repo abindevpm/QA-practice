@@ -274,3 +274,21 @@
 
 // console.log(sum(10)(10)(10))                    
                            
+
+                                //  Palindrome finding in string
+
+//  function isPalindrome(str){
+    
+// let a = str
+// let b = str.split("").reverse().join("")
+
+// if(a===b){
+//     return "isPalindrome"
+// }else{
+//     return "not a palindrome"
+// }
+    
+    
+// }
+
+// console.log(isPalindrome("malayalam"))                          
