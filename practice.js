@@ -245,4 +245,20 @@
 
 // console.log(total)
 
+
+                         //  closure example
+
+//  function outer(){
+//     let a = "Hello world"
+    
+//     function inner(){
+//         console.log(a)
+//     }
+//     return inner
+    
+// }
+
+// const log = outer()
+// log()                        
+
                            
