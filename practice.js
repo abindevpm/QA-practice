@@ -291,4 +291,22 @@
     
 // }
 
-// console.log(isPalindrome("malayalam"))                          
+// console.log(isPalindrome("malayalam"))   
+
+
+                       //  shallow Copy
+
+//  let a = {
+//     name:"abindev",
+//     age:20,
+//     address:{
+//         place:'kannur'
+//     }
+// }
+
+//  let b = {...a}
+ 
+//  b.address.place = "kochi"
+ 
+//  console.log(a)
+//  console.log(b)                      
