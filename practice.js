@@ -326,4 +326,13 @@
 // b.address.place = "kochi"
 
 // console.log(a)
-// console.log(b)                       
+// console.log(b)      
+
+
+                  // printing 1 to 10 , 1 sec delay in setTimeout
+
+//  for(let i = 0;i<=10;i++){
+//     setTimeout(()=>{
+//         console.log(i)
+//     },i*1000)
+// }                 
