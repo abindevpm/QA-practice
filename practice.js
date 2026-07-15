@@ -261,4 +261,16 @@
 // const log = outer()
 // log()                        
 
+
+                            // currying example
+
+//         function sum(a){
+//     return function(b){
+//         return function (c){
+//             return a+b+c
+//         }
+//     }
+// }
+
+// console.log(sum(10)(10)(10))                    
                            
