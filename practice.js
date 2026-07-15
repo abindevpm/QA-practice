@@ -364,5 +364,27 @@
 // console.log(sum)                 
 
 
+                    // Remove Duplicates in forloop 
+
+//   let a = [1,2,2,1]
+ 
+//   let nondup = []
+  
+//  for(let i = 0;i<a.length;i++){
+//      let isDuplicate = false
+//      for(let j = 0;j<nondup.length;j++){
+//          if(a[i] === nondup[j]){
+//              isDuplicate = true
+//              break;
+             
+//          }
+//      }
+//        if(!isDuplicate){
+//            nondup[nondup.length] = a[i]
+//        }
+//  }
+ 
+//  console.log(nondup)                   
+
                       
                      
