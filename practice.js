@@ -310,3 +310,20 @@
  
 //  console.log(a)
 //  console.log(b)                      
+
+                       // Deep Copy
+
+// let a = {
+//     name:"abinndev",
+//     age:20,
+//     address:{
+//         place:"kannur"
+//     }
+// }
+
+// let b = JSON.parse(JSON.stringify(a))
+
+// b.address.place = "kochi"
+
+// console.log(a)
+// console.log(b)                       
