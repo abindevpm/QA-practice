@@ -141,4 +141,18 @@
 // })
 
 
+       // file reading in fs
+
+// const fs = require("fs")
+// fs.readFile("abi.txt","utf-8",(err,data)=>{
+//     if(err){
+//         console.log(err)
+//     }else{
+//         console.log(data)
+//     }
+// })
+
+
+
+
 
