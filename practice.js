@@ -387,6 +387,14 @@
 //  console.log(nondup)                
 
 
+                     // Delete middle Element in an array
 
+//  let a = [1,2,3,4,5]
+
+//  let b = Math.floor(a.length/2)
+ 
+//   a.splice(b,1)
+  
+//   console.log(a)
                       
                      
