@@ -152,6 +152,17 @@
 //     }
 // })
 
+        // file deleting in fs
+
+//  const fs = require('fs')
+//  fs.unlink("abi.txt",(err,data)=>{
+//     if(err){
+//         console.log(err)
+//     }else{
+//         console.log(data)
+//     }
+//  })       
+        
 
 
 
